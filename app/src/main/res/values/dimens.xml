@@ -1,0 +1,18 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="number_button_width">115dp</dimen>
+    <dimen name="tip_rate_radio_width">80dp</dimen>
+    <dimen name="people_number_radio_width">80dp</dimen>
+    <dimen name="show_area_padding_left_right">20dp</dimen>
+    <dimen name="show_area_padding_top_bottom">5dp</dimen>
+    <dimen name="radiogroup_top_bottom">2dp</dimen>
+    <dimen name="number_button_text_size">40dp</dimen>
+    <dimen name="text_view_letter_size">25dp</dimen>
+    <dimen name="text_view_number_size">25dp</dimen>
+
+    <!--landscape dimen-->
+    <dimen name="number_button_width_land">100dp</dimen>
+    <dimen name="number_button_text_size_land">40dp</dimen>
+</resources>

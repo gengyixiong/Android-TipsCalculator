@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tips Calculator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="tips">TIPS:</string>
+    <string name="total">TOTAL:</string>
+    <string name="tip_rate_16">16%</string>
+    <string name="tip_rate_19">19%</string>
+    <string name="tip_rate_22">22%</string>
+    <string name="AA">SHARE:</string>
+
+</resources>

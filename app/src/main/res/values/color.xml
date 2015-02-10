@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="textView_color">#fff</color>
+    <color name="textView_text_color">#53ab3a</color>
+    <color name="radio_color">#53ab3a</color>
+    <color name="number_button_color">#fff</color>
+    <color name="number_button_text_color">#53ab3a</color>
+    <color name="radio_text_color">#fff</color>
+
+    <!--landscape color-->
+    <color name="radio_color_land">#fff</color>
+    <color name="radio_text_color_land">#53ab3a</color>
+</resources>
